@@ -1,5 +1,5 @@
 {
-  "name": "node-ane",
+  "name": "@oneetyan/node-ane",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/oneetyan/node-ane.git",
